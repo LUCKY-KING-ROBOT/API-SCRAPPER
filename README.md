@@ -7,7 +7,7 @@ DEPLOY
 
 <h3 align="center">
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- [![Deploy]("https://dashboard.heroku.com/new-app?template=https://github.com/LUCKY-KING-ROBOT/API-SCRAPPER")
 
 </h3>
 
